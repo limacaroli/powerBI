@@ -1,0 +1,12 @@
+Data transformation project with Power BI.
+- An instance of My SQL was created in Microsoft Azure, where the entire SQL script for implementing the database was created.
+- My SQL Workbench was used to create the Microsoft Azure connection to the Database.
+- Data was loaded into Power BI using the My SQL Database.
+After loading data into PowerBI, the report was generated
+
+
+Projeto de transformação de dados com Power BI. 
+- Foi criada uma instância do My SQL no Microsoft Azure, onde foi criado todo script SQL para a implementação do banco de dados.
+- O My SQL Workbench foi utilizado para criar a conexão do Microsoft Azure com o Banco de Dados.
+- No Power BI foi feito o carregamento dos dados utilizando o Banco de Dados My SQL. 
+Após o carregamento de dados no PowerBI, o relatório foi gerado
